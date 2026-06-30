@@ -1,0 +1,6 @@
+{
+  "name": "Last Minute Life Saver",
+  "description": "An urgent deadline scheduler, task prioritizer, and AI Coach designed to rescue procrastinators with prediction metrics and emergency mode guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
